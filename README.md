@@ -3,7 +3,9 @@
 АКТУАЛЬНЫЕ ФАЙЛЫ:
 Ссылка на Яндекс.Диск со всеми csv файлами: https://disk.yandex.ru/d/RzITNiZrTDEl2Q
 
-Ссылка на коллаб: https://colab.research.google.com/drive/120PqHDorlxT8H3xBmXIxxCO_E74lpFqu?usp=sharing
+Ссылка на коллаб (анализ данных): https://colab.research.google.com/drive/120PqHDorlxT8H3xBmXIxxCO_E74lpFqu?usp=sharing
+
+Ссылка на коллаб (попытка сделать модель): https://colab.research.google.com/drive/1Z8D5vSE-81FOG-uyHipzoS_trHsRKxoc?usp=sharing
 
 PARSING_x3.ipynb: парсинг с циана
 
@@ -22,6 +24,8 @@ EDA_intensiv_ver2.ipynb: анализ данных (доделанный пол�
 отчёт_версия_два.pdf: отчёт (доделанный, последняя версия)
 
 for_model_ver2.csv: обработанный с помощью кода датасет (данные для модельки)
+
+model_intensiv1.ipynb: файл с моделькой 
 
 ВСЕ ОСТАЛЬНЫЕ ФАЙЛЫ:
 
