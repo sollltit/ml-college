@@ -4,6 +4,8 @@
 
 Ссылка на коллаб: https://colab.research.google.com/drive/120PqHDorlxT8H3xBmXIxxCO_E74lpFqu?usp=sharing
 
+отчёт_титова.pdf: отчёт
+
 EDA_intensiv.ipynb: анализ данных
 
 PARSING_x3.ipynb: парсинг с циана
